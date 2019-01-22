@@ -1,0 +1,4 @@
+LIBRARY	"INFODumpNV"
+EXPORTS
+NVSEPlugin_Query
+NVSEPlugin_Load
